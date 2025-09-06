@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - OverViewCamera
+  - WaistCameraRigCamera
+  - WaistCameraRigCamera1
+  - WaistCameraRigCamera2
+  - WaistCameraRigCamera3
+  - WaistCameraRigCamera4
+  - WaistCameraRigCamera5
+  - WaistCameraRigCamera6
+  - WaistCameraRigCamera7
+  - HeadCameraRigCamera
+  - HeadCameraRigCamera1
+  - HeadCameraRigCamera2
+  - HeadCameraRigCamera3
+  - HeadCameraRigCamera4
+  - HeadCameraRigCamera5
+  - HeadCameraRigCamera6
+  - HeadCameraRigCamera7
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
