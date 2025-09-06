@@ -1,4 +1,4 @@
-### Synthetic Training Data Generator
+# Synthetic Training Data Generator
 
 You can use this project to create synthetic data for training an AI model. 
 
